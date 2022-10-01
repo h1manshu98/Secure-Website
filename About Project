@@ -1,0 +1,9 @@
+>   This project is created to provide greater security to the website.
+
+>   The website is hosted on private s3 bucket using its static website hosting feature.
+
+>   Used CloudFront Distribution and OAI to access the bucket.
+
+>   A Lambda function is created to store the username and password of the authorized user.
+
+>   Technologies used - AWS, S3, CloudFront, Lambda, vsCode.
